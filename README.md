@@ -4,7 +4,7 @@ Install dlux opendaylight web UI on Openstack
 
 #Usage
 
-$ vagrant up --provicer=openstack
+$ vagrant up --provider=openstack
 
 $ vagrant ssh
 
