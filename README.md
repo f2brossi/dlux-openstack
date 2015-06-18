@@ -21,5 +21,5 @@ opendaylight-user@root>feature:install odl-restconf odl-l2switch-switch odl-mdsa
 
 ## Accessing the dlux UI
 
-Navigate to http://localhost:8181/dlux/index.html to access the DLUX UI.
+Navigate to http://<floatingIP>:8181/dlux/index.html to access the DLUX UI.
 The default username and password are both "admin".
